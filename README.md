@@ -10,6 +10,6 @@ Search for the user name on social media
 ### Usage:
 ```
 git clone https://github.com/0xfff0800/user-link
-cd Brute-Forc-Twitter
+cd user-link
 python3 user-link.py
 
